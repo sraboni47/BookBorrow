@@ -80,7 +80,7 @@ const books = {
   category: "Leadership",
   image: "/bookCard9.avif",
   description:
-    "This book presents seven powerful habits that help individuals become more effective in personal and professional life. It focuses on character development, responsibility, and long-term success.",
+    "This book presents seven powerful habits that help individuals become more effective in personal and professional life. It focuses on character development, responsibility, and long-term success!.",
 },
 
 10: {
